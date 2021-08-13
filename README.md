@@ -1,8 +1,10 @@
+![](https://komarev.com/ghpvc/?username=thedspyr&color=red)
+
 # JobSearch powered by `dspyR`
 
 *Visit career sections of various organizations for open positions/opportunities*
 
-<table class=”sortable”>
+<table align='center'>
   <thead>
     <tr>
       <th class="COMPANY-cell">COMPANY</th>
