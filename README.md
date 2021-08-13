@@ -1,6 +1,6 @@
 # JobSearch powered by `dspyR`
 *Visit career sections of various organizations for open positions/opportunities*
-<table>
+<table class=”searchable sortable”>
   <thead>
     <tr>
       <th class="COMPANY-cell">COMPANY</th>
@@ -49,5 +49,7 @@
 
 ### Wish you all the best in your job search 👍👍
 ##### Collaborations and relevant contributions are always welcome! 
+
+
 <hr>
 © dspyR | 2021 | with ❤️ from India 
